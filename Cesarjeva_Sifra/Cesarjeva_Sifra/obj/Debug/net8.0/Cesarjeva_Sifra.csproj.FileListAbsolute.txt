@@ -1,0 +1,14 @@
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\bin\Debug\net8.0\Cesarjeva_Sifra.exe
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\bin\Debug\net8.0\Cesarjeva_Sifra.deps.json
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\bin\Debug\net8.0\Cesarjeva_Sifra.runtimeconfig.json
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\bin\Debug\net8.0\Cesarjeva_Sifra.dll
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\bin\Debug\net8.0\Cesarjeva_Sifra.pdb
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\Cesarjeva_Sifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\Cesarjeva_Sifra.AssemblyInfoInputs.cache
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\Cesarjeva_Sifra.AssemblyInfo.cs
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\Cesarjeva_Sifra.csproj.CoreCompileInputs.cache
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\Cesarjeva_Sifra.dll
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\refint\Cesarjeva_Sifra.dll
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\Cesarjeva_Sifra.pdb
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\Cesarjeva_Sifra.genruntimeconfig.cache
+C:\Users\tadej\source\repos\Cesarjeva_Sifra\Cesarjeva_Sifra\obj\Debug\net8.0\ref\Cesarjeva_Sifra.dll
